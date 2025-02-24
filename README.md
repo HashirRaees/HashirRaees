@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there I'm Hashir Raees 👋
 
-<!--
-**HashirRaees/HashirRaees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer | Tech Explorer**
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable web applications, contributing to open-source, and constantly learning new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱I’m currently learning 
+- web application development from SMIT.
+- agentic AI from GIAIC.
+  
+### 📫 Let's Connect!  
+- 💼 [Portfolio](https://portfolio-omega-umber-59.vercel.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hashir-raees-1311752ba/)
+- 🔗 [Facebook](https://www.facebook.com/hashir.rais) 
