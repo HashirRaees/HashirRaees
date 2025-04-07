@@ -5,8 +5,8 @@
 🚀 Passionate about building scalable web applications, contributing to open-source, and constantly learning new technologies.  
 
 ## 🌱I’m currently learning 
-- web application development from SMIT.
-- agentic AI from GIAIC.
+- Web application development from SMIT.
+- Agentic AI from GIAIC.
   
 ### 📫 Let's Connect!  
 - 💼 [Portfolio](https://portfolio-omega-umber-59.vercel.app/)
