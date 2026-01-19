@@ -1,8 +1,8 @@
-## Hi there I'm Hashir Raees 👋
+                                                                           ##Hi there I'm Hashir Raees 👋
 
-**Web Developer | Tech Explorer**
+                                                                          **Web Developer | Tech Explorer**
 
-🚀 Passionate about building scalable web applications, contributing to open-source, and constantly learning new technologies.  
+                                 Passionate about building scalable web applications, contributing to open-source, and constantly learning new technologies.  
 
 ## 🌱I’m currently learning 
 - MERN Stack development from SMIT.
