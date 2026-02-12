@@ -8,6 +8,6 @@ Passionate about building scalable web applications, contributing to open-source
 - MERN Stack development from SMIT.
   
 ### 📫 Let's Connect!  
-- 💼 [Portfolio](https://hashir-raees-portfolio.vercel.app/)
+- 💼 [Portfolio](https://hashir-raees-porfolio.vercel.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hashir-raees-1311752ba/)
 - 🔗 [Facebook](https://www.facebook.com/hashir.rais) 
